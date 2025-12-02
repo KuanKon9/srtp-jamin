@@ -66,7 +66,7 @@
 
     <meta name="description"
         content="Sari4d itu tempat bermain slot garansi kekalahan dengan peluang maxwin tinggi setiap hari. Nikmati slot gacor, free spin mudah, dan fitur garansi saldo terbaik tanpa syarat rumit. Akses cepat, stabil, dan aman.">
-
+<meta name="google-site-verification" content="yhsqXmVfIkQHloRMApcNJWUbdw-ODMAjlnoRfVNYaXo" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/dbb5t7rye/image/upload/v1763308270/sari4dico_ced6nx.ico">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
