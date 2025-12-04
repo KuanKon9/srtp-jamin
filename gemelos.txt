@@ -2404,7 +2404,7 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://envato.com/sitemap/">Sitemap</a>
+                                                            href=""></a>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -2466,7 +2466,7 @@
                                             </li>
                                             <li class="global-footer-company-links__list-item">
                                                 <a class="global-footer__text-link -opacity-full"
-                                                    href="https://envato.com/sitemap/">Sitemap</a>
+                                                    href=""></a>
                                             </li>
                                         </ul>
 
